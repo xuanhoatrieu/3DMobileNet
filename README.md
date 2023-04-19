@@ -8,3 +8,18 @@ Before run it, please download the data follow the link:
 FDD and URFD run in tensorflow 1.15
 
 UP-Fall run in tensorflow 2.10
+
+
+
+
+##Citation
+
+Please cite the following paper in your publications if our work has helped your research:
+Multi-camera, multi-person, and real-time fall detection using long short term memory
+
+
+## Citation
+Please cite the following paper in your publications if our work has helped your research: <br> [A Lightweight Model for Falling Detection](https://doi.org/10.1109/RIVF51545.2021.9642122)
+
+Hoa, T. X., Madrid, V. R. M., & Albacea, E. A. (2021, August). A Lightweight Model for Falling Detection. In 2021 RIVF International Conference on Computing and Communication Technologies (RIVF) (pp. 1-5). IEEE.
+
