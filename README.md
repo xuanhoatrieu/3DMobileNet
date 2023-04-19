@@ -12,12 +12,6 @@ UP-Fall run in tensorflow 2.10
 
 
 
-##Citation
-
-Please cite the following paper in your publications if our work has helped your research:
-Multi-camera, multi-person, and real-time fall detection using long short term memory
-
-
 ## Citation
 Please cite the following paper in your publications if our work has helped your research: <br> [A Lightweight Model for Falling Detection](https://doi.org/10.1109/RIVF51545.2021.9642122)
 
